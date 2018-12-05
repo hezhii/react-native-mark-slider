@@ -1,0 +1,26 @@
+{
+  "name": "react-native-mark-slider",
+  "version": "1.0.0",
+  "description": "A slider component with marking feature.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hezhii/react-native-mark-slider.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "slider",
+    "mark"
+  ],
+  "author": {
+    "name": "biu",
+    "email": "hezhou920@gmail.com",
+    "url": "https://www.whezh.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hezhii/react-native-mark-slider/issues"
+  },
+  "homepage": "https://github.com/hezhii/react-native-mark-slider#readme"
+}
