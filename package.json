@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/hezhii/react-native-mark-slider/issues"
   },
-  "homepage": "https://github.com/hezhii/react-native-mark-slider#readme"
+  "homepage": "https://github.com/hezhii/react-native-mark-slider#readme",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  }
 }
