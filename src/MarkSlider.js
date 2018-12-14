@@ -20,6 +20,9 @@ export default class MarkedSlider extends React.PureComponent {
 
   renderMarks() {
     const { marks } = this.props;
+    if (!marks || !marks.length) {
+      return null;
+    }
     const { width } = this.state;
     const markWidth = width / marks.length;
     return (
