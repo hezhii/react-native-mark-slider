@@ -22,7 +22,7 @@ export default class App extends Component {
               onChange={value => this.setState({ value })}
           />
           <View style={{ alignItems: 'center' }}>
-            <Text>滑块值：{this.state.value}</Text>
+            <Text>Value：{this.state.value}</Text>
           </View>
         </View>
     );
