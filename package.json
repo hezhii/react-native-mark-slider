@@ -1,6 +1,6 @@
 {
   "name": "react-native-mark-slider",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A slider component with marking feature.",
   "main": "index.js",
   "repository": {
